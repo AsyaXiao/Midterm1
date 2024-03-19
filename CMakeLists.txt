@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.27)
+project(Midterm1)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(TEST "contest 1/test.cpp")
+add_executable(_1.2 "contest 1/1.2.cpp")
+add_executable(_1.3 "contest 1/1.3.cpp")
+add_executable(_1.4 "contest 1/1.4.cpp")
+add_executable(_1.5 "contest 1/1.5.cpp")
+add_executable(_1.6 "contest 1/1.6.cpp")
+add_executable(_1.8 "contest 1/1.8.cpp")
