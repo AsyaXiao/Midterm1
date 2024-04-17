@@ -6,7 +6,7 @@
 #define MIDTERM1_SOLUTION_H
 
 #endif //MIDTERM1_SOLUTION_H
-
+#include <algorithm>
 #include <iostream>
 #include <map>
 #include <set>
