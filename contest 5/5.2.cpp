@@ -50,6 +50,5 @@ int main() {
                 std::cout << words[k] << std::endl;
             }
         }
-
     }
 }
